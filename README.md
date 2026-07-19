@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 안녕하세요!
 
-<!--
-**gururr-lab/gururr-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+저는 **곱슬간지남(gururr)** 입니다.
 
-Here are some ideas to get you started:
+> 코드로 삶을 더 편하게 만든다.
+> 
+> Making life easier with code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📚 Currently Learning
+
+- Python
+- Git & GitHub
+- AI
+- Linux
+- NAS Automation
+
+---
+
+## 🚀 Projects
+
+- 📄 PDF Bookmark Generator
+- 🤖 Telegram Automation
+- 🎮 Steam Project
+- 🖥️ NAS Automation
+
+---
+
+## 🎯 Goal
+
+배우고,
+기록하고,
+자동화하며,
+꾸준히 성장하는 개발자.
