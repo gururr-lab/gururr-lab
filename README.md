@@ -20,7 +20,6 @@
 
 ## 🚀 Projects
 
-- 📄 PDF Bookmark Generator
 - 🤖 Telegram Automation
 - 🎮 Steam Project
 - 🖥️ NAS Automation
